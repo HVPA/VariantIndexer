@@ -1,0 +1,2 @@
+01 00 * * 0 cd /var/HVP/VariantIndexer && /var/HVP/hvpenv/bin/python /var/HVP/VariantIndexer/cDNAIndexer.py
+01 00 * * 0 cd /var/HVP/VariantIndexer && /var/HVP/hvpenv/bin/python /var/HVP/VariantIndexer/GenomicMutalyzer.py
